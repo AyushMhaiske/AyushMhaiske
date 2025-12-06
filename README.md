@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Ayush Mhaiske
 🔭 i'm a college students <br>👯 I’m looking to collaborate on frontend projects<br>🤝 I’m looking for help with development<br>🌱 I’m currently learning front-end development
 
 
